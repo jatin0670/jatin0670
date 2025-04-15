@@ -2,9 +2,6 @@
 
 ## HI there :wave: My name is Jatin<br>  
 
-<a href="https://www.linkedin.com/in/jatin-pratap-7219ba327/">
-  <img align="left" width="28px" src="https://cdn.simpleicons.org/linkedin"  />
-</a>
 
 <a href="mailto:jp0670786@gmail.com">
   <img align="left" width="28px" src="https://cdn.simpleicons.org/gmail" />
