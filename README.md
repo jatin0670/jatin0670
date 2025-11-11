@@ -12,4 +12,4 @@
 I am an undergraduate student pursuing a BCA degree. I have been programming for more than 2 years and have worked on many [projects](https://github.com/jatin0670?tab=repositories) using HTML, CSS, and JavaScript.
 
 ### Skills:<br>  
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nodejs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,py,js,html,css,react,nodejs,tailwind,blender,unity,dotnet)](https://skillicons.dev)
