@@ -3,9 +3,9 @@
 I am an undergraduate student pursuing a BCA degree. I have been programming for more than 2 years and have worked on many [projects](https://github.com/jatin0670?tab=repositories) using HTML, CSS, and JavaScript.<br>
 <br>
 
-<a href= "https://portfolio-2-ruddy-one.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"> </a> &ensp; 
-<a href="mailto:jatinpratap0670@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  &ensp;
-<a href="https://x.com/jp0670786"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"> </a>
+<a href="https://x.com/jp0670786"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"> </a> <br>
+<a href="mailto:jatinpratap0670@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  <br>
+<a href= "https://portfolio-2-ruddy-one.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"> </a> 
 
 <h2>Favorite Tech:</h2>
 
